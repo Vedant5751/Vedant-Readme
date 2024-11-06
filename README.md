@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vedant Patil</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vedant M Patil</h1>
+<h3 align="center">An aspiring software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant5751&label=Profile%20views&color=0e75b6&style=flat" alt="vedant5751" /> </p>
 
